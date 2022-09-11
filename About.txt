@@ -1,0 +1,9 @@
+The above application is a fully functional react web app created using React Hooks, AJAX and backend using node.js.
+
+The backend will auto generate an inventory table once we run it via command prompt.
+The steps on how to run the backend is already in the backend folder.
+The backend here is simply fetching the inventory to your local host.
+
+Now comes the frontend. Again the steps on how to run the frontend is already in that folder.
+Frontend allows you to perform CRUD functionality on the existing inventory fetched from the backend.
+There is also Search functionality added to the frontend file that will display the Seacrch table at the bottom of the web page.

@@ -1,0 +1,45 @@
+/* "StAuth10244: 
+I Manan Patel, 000812466 certify that this material is my original work.
+ No other person's work has been used without due acknowledgement. I have not 
+ made my work available to anyone else."
+ */
+
+
+
+.font-loader{
+  font-family: 'Sans','Rokkitt','BioRhyme','Times New Roman', Times, serif;
+}
+
+.deleteIcon :hover{
+  background-color: red;
+  size: 5px;
+}
+
+body{
+  background-color: #D4ECDD;
+  color: #112031;
+}
+
+td, tr, th, table { 
+    border: 2px solid black;
+    padding: 20px;
+}
+
+th{
+  color: rgb(33, 161, 140);
+}
+
+table {
+  border-collapse: collapse;
+  background-color: #152D35 ;
+  color: #D4ECDD;
+}
+
+body, button {
+  font-size: 20px;
+}
+
+.button{
+  background-color: #152D35;
+  color: #D4ECDD;
+}
